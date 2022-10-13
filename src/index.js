@@ -1,6 +1,5 @@
 import './style.css';
 import './images/bookmark.svg';
-import './images/image-gallery.png';
 import './images/image1.jpg';
 import './images/image2.jpg';
 import './images/image3.jpg';
